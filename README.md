@@ -1,8 +1,3 @@
-Here’s a sample README.md file tailored for your Banking-Application repository. It explains the purpose, structure, and how to run the application:
-
-
----
-
 # Banking-Application
 
 A simple console-based banking application written in Java. This project demonstrates basic Object-Oriented Programming (OOP) concepts such as classes, objects, inheritance, and encapsulation. It allows customers to manage their bank accounts and perform transactions.
@@ -58,6 +53,4 @@ License
 
 This project is open source and available under the MIT License.
 
----
 
-Let me know if you’d like this customized further (e.g. with screenshots, sample output, or author credits).
