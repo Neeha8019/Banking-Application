@@ -28,11 +28,11 @@ A simple console-based banking application written in Java. This project demonst
    cd Banking-Application
 2. *Compile the Java files*
    
-    javac *.java
+    - javac *.java
    
 3. *Run the application*
 
-   java main
+   - java main
 
 
 
