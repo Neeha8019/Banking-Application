@@ -26,29 +26,46 @@ A simple console-based banking application written in Java. This project demonst
    ```bash
    git clone https://github.com/<your-username>/Banking-Application.git
    cd Banking-Application
+2. *Compile the Java files*
+   
+    javac *.java
+   
+3. *Run the application*
 
-2. Compile the Java files
-
-javac *.java
-
-
-3. Run the application
-
-java main
+   java main
 
 
 
-Requirements
+## Requirements
 
 Java JDK 8 or higher
 
 A terminal or command prompt
 
 
-Contributing
+## Sample Output
+Welcome to the Banking System
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer Funds
+5. View Transactions
+6. Exit
+Enter your choice:
 
-Feel free to fork the repository and submit pull requests. Suggestions and improvements are welcome!
+## 💡 Technologies Used
+Java (JDK 8+)
 
+Object-Oriented Programming
+
+## 📈 Future Enhancements
+GUI using JavaFX or Swing
+
+Database integration (JDBC or Hibernate)
+
+Authentication for customers
+
+Email or SMS notifications for transactions
 
 
 
